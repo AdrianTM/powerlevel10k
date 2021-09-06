@@ -1,0 +1,10 @@
+LICENSE				usr/share/doc/zsh-theme-powerlevel10k
+Makefile			usr/share/zsh-theme-powerlevel10k
+README.md 			usr/share/doc/zsh-theme-powerlevel10k
+config/*			usr/share/zsh-theme-powerlevel10k/config
+font.md 			usr/share/doc/zsh-theme-powerlevel10k
+gitstatus/*			usr/share/zsh-theme-powerlevel10k/gitstatus
+internal/*			usr/share/zsh-theme-powerlevel10k/internal
+powerlevel10k.png		usr/share/zsh-theme-powerlevel10k
+powerlevel*k.zsh-theme		usr/share/zsh-theme-powerlevel10k
+prompt_powerlevel*k_setup	usr/share/zsh-theme-powerlevel10k

@@ -1,0 +1,14 @@
+Source: zsh-theme-powerlevel10k
+Section: utils
+Priority: optional
+Maintainer: Adrian <adrian@mxlinux.org>
+Build-Depends: debhelper (>=10)
+Standards-Version: 3.9.8
+Homepage: https://github.com/romkatv/powerlevel10k
+
+Package: zsh-theme-powerlevel10k
+Architecture: all
+Depends: zsh
+Description: Powerlevel10k.
+ Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+ More info at https://github.com/romkatv/powerlevel10k.
