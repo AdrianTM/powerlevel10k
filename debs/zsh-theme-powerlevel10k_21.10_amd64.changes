@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Sep 2021 22:45:54 -0400
+Source: zsh-theme-powerlevel10k
+Binary: zsh-theme-powerlevel10k
+Architecture: source all
+Version: 21.10
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ zsh-theme-powerlevel10k - Powerlevel10k.
+Changes:
+ zsh-theme-powerlevel10k (21.10) mx; urgency=medium
+ .
+   * Initial build
+Checksums-Sha1:
+ b8f5d4002bdfdfa3f9276b15d1ddfc1933d4dca8 1211 zsh-theme-powerlevel10k_21.10.dsc
+ 5faebe0b6c7d2db3967b30e165642dc995804414 263176 zsh-theme-powerlevel10k_21.10.tar.xz
+ b5f9ed2745948b85063bf5b83178763ca6782490 275596 zsh-theme-powerlevel10k_21.10_all.deb
+ 64a1f405c75666c5fae28861639b0c06ac38eed9 5613 zsh-theme-powerlevel10k_21.10_amd64.buildinfo
+Checksums-Sha256:
+ a9554fd6f6faf3cd4cdc70689d9613d513daaaff201f6b1e4fef539e6d1de402 1211 zsh-theme-powerlevel10k_21.10.dsc
+ 1bf4beb665511ee7abbd2b908469f40558f5cbc4280dd05c1498a3b660def5ad 263176 zsh-theme-powerlevel10k_21.10.tar.xz
+ 016f5987e447ee51bd9a825f78ca9a4d8e70504a5ba5101bc47b382c5a9dad8e 275596 zsh-theme-powerlevel10k_21.10_all.deb
+ 62e4d8c0faa79673c5579d4faca874245270b2e0a33ccd8aea1faf649cc3fde1 5613 zsh-theme-powerlevel10k_21.10_amd64.buildinfo
+Files:
+ 094e93e59f34610170a28a5e987cbf81 1211 utils optional zsh-theme-powerlevel10k_21.10.dsc
+ 203229dcd1a719c4905538ab4ffd65eb 263176 utils optional zsh-theme-powerlevel10k_21.10.tar.xz
+ 7015fb0672aaf1b7b9270bbae5fbedbd 275596 utils optional zsh-theme-powerlevel10k_21.10_all.deb
+ 33bd7fcffcbf9c478df6382239b9bc84 5613 utils optional zsh-theme-powerlevel10k_21.10_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmE1odcTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumD6YCACdFO4442I0oFfdahkRYRurWGRe9zm2
+fdn3BlQY3DuW9d1ri31H4BlKuB2iiXonPJv9P2xr43Bqj2hsoM2Q7nfzRq/N1M0g
+MGLnpGvhC6UEP4bsLD2TWDaepTimqRyGn0XD1LQoNKc42XZhGFjQoy5CiFL3gjly
+dY4CWBYK61WBl0gZpr7Zdxh6ZO378y+lrnvp8c1gbEzVYgI5SXLrexhe5Kl/4H05
+aYtIexs+NANLLV8amkE+yDNDuXbiyiXkMllciADlkmGdQVebzHDiqTyE/4XZoWxv
+/DZ8dY1RjxY0VeX7qUcxj0+WszQs43R23dpSf8dourxB6/G++UwD7HOy
+=f2px
+-----END PGP SIGNATURE-----
