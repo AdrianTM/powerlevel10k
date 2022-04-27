@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 27 Apr 2022 16:58:42 -0400
+Source: zsh-theme-powerlevel10k
+Architecture: source
+Version: 22.04
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ zsh-theme-powerlevel10k (22.04) mx; urgency=medium
+ .
+   * Refresh package with latest changes from upstream
+Checksums-Sha1:
+ 79d5de6e016ac72c274496c530e6fbc23120f431 1211 zsh-theme-powerlevel10k_22.04.dsc
+ 4217cf8860f89cc82787179a5436602876e82af6 265768 zsh-theme-powerlevel10k_22.04.tar.xz
+ 9e5b559249179b60d40ccd8ffbba1bfc4f77b0a3 5199 zsh-theme-powerlevel10k_22.04_amd64.buildinfo
+Checksums-Sha256:
+ b2738aa93218596cc30aaeff7921a0ba5b52c3610b23e5a83545d4fcd193a492 1211 zsh-theme-powerlevel10k_22.04.dsc
+ 073b63f10e64eab53c608dc376cfb084f928b34f5c79474fdb35bbc26ed17e67 265768 zsh-theme-powerlevel10k_22.04.tar.xz
+ 782ad1c6957154047047672a243c58239f24ca534ab9e0aaf1e5800e696712ec 5199 zsh-theme-powerlevel10k_22.04_amd64.buildinfo
+Files:
+ 7dba77d191e509f9d112f7467efb0142 1211 utils optional zsh-theme-powerlevel10k_22.04.dsc
+ 551e3504665c215a545f63232c179950 265768 utils optional zsh-theme-powerlevel10k_22.04.tar.xz
+ a847e2d1dd30c832791fa1759f38a68a 5199 utils optional zsh-theme-powerlevel10k_22.04_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJpsG0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumF1HCADR3+1vI337JjOUzA7FDyKDz5+nP+gO
+gkxvrcjKuXJeoctz9uZ2dzsu071WbA8n85eXYoV4CZ/xegdJgPNKu5d+mbjdIWvc
+OBIT73x+fwjN0dXVLHp0H1SEIbIH1Pb6SrOyP+TJ50jXo3/K0H7uanXho53X92Hl
+bF0nIJgAaoxFH1QRI4cV3wNIIs45ORGbV0oFKKiwmGr8KVz3n6385i29nl5J34ge
+ThRgq4BtSJHTSL0CBuahUPGQKaDOhNej0Rc8fiMqzvmtky4EMNlfVN+scnzouCPE
+VylK/yjQgkITwtJTZDX4Lke322BA8Q8/dbeAJBv+RN7qpTWFDOTF9JBG
+=WqHn
+-----END PGP SIGNATURE-----
