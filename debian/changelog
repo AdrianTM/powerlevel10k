@@ -1,3 +1,9 @@
+zsh-theme-powerlevel10k (25.04) mx; urgency=medium
+
+  * Refresh packge from upstream
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 25 Apr 2025 15:55:17 -0400
+
 zsh-theme-powerlevel10k (22.04) mx; urgency=medium
 
   * Refresh package with latest changes from upstream
